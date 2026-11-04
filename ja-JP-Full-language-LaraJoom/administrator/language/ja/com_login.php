@@ -1,0 +1,20 @@
+<?php
+return [
+    'com_login' => 'ログイン',
+    'login' => 'ログイン',
+    'username' => 'ユーザー名',
+    'password' => 'パスワード',
+    'language' => '言語',
+    'language_default' => '言語 - デフォルト',
+    'language_en_gb' => '英語（イギリス）',
+    'language_es_es' => 'スペイン語（es-ES）',
+    'show_password' => 'パスワードを表示',
+    'hide_password' => 'パスワードを隠す',
+    'login_button' => 'ログイン',
+    'login_form' => 'LaraJoom 管理画面ログイン',
+    'javascript_required' => '警告！管理画面を正常に使用するにはJavaScriptを有効にする必要があります。',
+    'open_frontend' => '新規ウィンドウでフロントエンドを開く',
+    'help_support' => 'ヘルプとサポート',
+    'need_support' => 'サポートが必要ですか？',
+    'help_here' => 'ここでヘルプを見つけることができます：',
+];

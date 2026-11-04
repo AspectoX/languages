@@ -1,0 +1,20 @@
+<?php
+return [
+    'com_login' => 'Connexion',
+    'login' => 'Connexion',
+    'username' => "Nom d'utilisateur",
+    'password' => 'Mot de passe',
+    'language' => 'Langue',
+    'language_default' => 'Langue - Par défaut',
+    'language_en_gb' => 'Anglais (Royaume-Uni)',
+    'language_es_es' => 'Espagnol (es-ES)',
+    'show_password' => 'Afficher le mot de passe',
+    'hide_password' => 'Masquer le mot de passe',
+    'login_button' => 'Connexion',
+    'login_form' => "Connexion à l'administration LaraJoom",
+    'javascript_required' => 'Avertissement ! JavaScript doit être activé pour un bon fonctionnement de l\'administration.',
+    'open_frontend' => 'Ouvrir le site frontal dans une nouvelle fenêtre.',
+    'help_support' => 'Aide et support',
+    'need_support' => "Besoin d'aide ?",
+    'help_here' => 'Vous pouvez trouver de l\'aide ici :',
+];

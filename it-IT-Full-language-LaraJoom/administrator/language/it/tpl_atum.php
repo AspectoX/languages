@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'lj_warn_javascript'    => 'JavaScript è richiesto.',
+    'lj_error_occurred'     => 'Si è verificato un errore.',
+    'lj_default_error'      => 'Si è verificato un errore imprevisto.',
+    'lj_toolbar'            => 'Barra degli strumenti',
+    'lj_back_to_cp'         => 'Torna al Pannello di controllo',
+    'lj_sidebar_heading'    => 'Barra laterale',
+    'lj_toggle_sidebar'     => 'Apri/chiudi menu',
+    'lj_view_website'       => 'Visualizza sito web',
+    'lj_backend_login'      => 'Accesso backend',
+    'lj_cpanel_link'        => 'Vai al Pannello di controllo',
+    'lj_edit_module'        => 'Modifica modulo: :title',
+    'lj_action_edit'        => 'Modifica',
+    'lj_action_unpublish'   => 'Pubblica',
+    'lj_more_elements'      => 'Più elementi',
+    'lj_login_logo'         => 'Logo di accesso',
+    'lj_profile'            => 'Profilo',
+    'lj_logout'             => 'Disconnetti',
+    'ax_pagination_previous' => 'Precedente',
+    'ax_pagination_next'     => 'Successivo',
+    'ax_pagination_showing'  => 'Visualizzazione',
+    'ax_pagination_to'       => 'a',
+    'ax_pagination_of'       => 'di',
+    'ax_pagination_results'  => 'risultati',
+];

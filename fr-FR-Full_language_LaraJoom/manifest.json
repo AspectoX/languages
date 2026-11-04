@@ -1,0 +1,10 @@
+{
+    "name":  "fr-FR",
+    "title": "Langue française",
+    "version": "1.0.0",
+    "creationDate": "2026-10-23",
+    "author": "ax LaraJoom!",
+    "description": "Langue française pour LaraJoom.",
+    "lang_path":  "administrator/language",
+    "lang_path":  "language"
+}

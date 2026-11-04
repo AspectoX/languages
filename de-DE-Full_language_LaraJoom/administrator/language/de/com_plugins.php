@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'plugins'       => 'Plugins',
+    'edit_plugin'   => 'Plugin bearbeiten',
+    'back'          => 'Zurück',
+    'name'          => 'Name',
+    'group'         => 'Gruppe',
+    'element'       => 'Element',
+    'access'        => 'Zugriff',
+    'ordering'      => 'Reihenfolge',
+    'id'            => 'ID',
+    'enabled'       => 'Aktiviert',
+    'disabled'      => 'Deaktiviert',
+    'note'          => 'Hinweis',
+    'plugin'        => 'Plugin',
+    'params'        => 'Parameter',
+    'params_json'   => 'Parameter (JSON)',
+    'cancel'        => 'Abbrechen',
+    'save'          => 'Speichern',
+    'save_close'    => 'Speichern & Schließen',
+    'saved'         => 'Plugin gespeichert.',
+    'detect'        => 'Plugins erkennen',
+    'detected'      => ':count Plugin(s) registriert.',
+];

@@ -1,0 +1,10 @@
+{
+    "name":  "it-IT",
+    "title": "Lingua tedesca",
+    "version": "1.0.0",
+    "creationDate": "2026-10-23",
+    "author": "ax LaraJoom!",
+    "description": "Lingua tedesca per LaraJoom.",
+    "lang_path":  "administrator/language",
+    "lang_path":  "language"
+}

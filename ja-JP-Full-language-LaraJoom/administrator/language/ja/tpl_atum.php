@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'lj_warn_javascript'    => 'JavaScriptが必要です。',
+    'lj_error_occurred'     => 'エラーが発生しました。',
+    'lj_default_error'      => '予期せぬエラーが発生しました。',
+    'lj_toolbar'            => 'ツールバー',
+    'lj_back_to_cp'         => 'コントロールパネルに戻る',
+    'lj_sidebar_heading'    => 'サイドバー',
+    'lj_toggle_sidebar'     => 'メニューを切替',
+    'lj_view_website'       => 'ウェブサイトを表示',
+    'lj_backend_login'      => 'バックエンドログイン',
+    'lj_cpanel_link'        => 'コントロールパネルへ移動',
+    'lj_edit_module'        => 'モジュールを編集：:title',
+    'lj_action_edit'        => '編集',
+    'lj_action_unpublish'   => '非公開',
+    'lj_more_elements'      => 'その他の要素',
+    'lj_login_logo'         => 'ログインロゴ',
+    'lj_profile'            => 'プロフィール',
+    'lj_logout'             => 'ログアウト',
+    'ax_pagination_previous' => '前へ',
+    'ax_pagination_next'     => '次へ',
+    'ax_pagination_showing'  => '表示中',
+    'ax_pagination_to'       => 'から',
+    'ax_pagination_of'       => '（合計',
+    'ax_pagination_results'  => '件）',
+];

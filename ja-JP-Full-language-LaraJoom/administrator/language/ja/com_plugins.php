@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'plugins'       => 'プラグイン',
+    'edit_plugin'   => 'プラグインを編集',
+    'back'          => '戻る',
+    'name'          => '名前',
+    'group'         => 'グループ',
+    'element'       => 'エレメント',
+    'access'        => 'アクセスレベル',
+    'ordering'      => '順序',
+    'id'            => 'ID',
+    'enabled'       => '有効',
+    'disabled'      => '無効',
+    'note'          => 'メモ',
+    'plugin'        => 'プラグイン',
+    'params'        => 'パラメータ',
+    'params_json'   => 'パラメータ（JSON）',
+    'cancel'        => 'キャンセル',
+    'save'          => '保存',
+    'save_close'    => '保存して閉じる',
+    'saved'         => 'プラグインを保存しました。',
+    'detect'        => 'プラグインを検出',
+    'detected'      => ':count 件のプラグインを登録しました。',
+];
