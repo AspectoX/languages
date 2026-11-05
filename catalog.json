@@ -1,0 +1,34 @@
+[
+  {
+    "name": "de-DE",
+    "title": "Deutsche Sprache",
+    "version": "1.0.0",
+    "author": "ax LaraJoom!",
+    "description": "Deutsche Sprache für LaraJoom.",
+    "folder": "de-DE-Full_language_LaraJoom"
+  },
+  {
+    "name": "fr-FR",
+    "title": "Français",
+    "version": "1.0.0",
+    "author": "ax LaraJoom!",
+    "description": "Français pour LaraJoom.",
+    "folder": "fr-FR-Full_language_LaraJoom"
+  },
+  {
+    "name": "it-IT",
+    "title": "Italiano",
+    "version": "1.0.0",
+    "author": "ax LaraJoom!",
+    "description": "Italiano per LaraJoom.",
+    "folder": "it-IT-Full-language-LaraJoom"
+  },
+  {
+    "name": "ja-JP",
+    "title": "日本語",
+    "version": "1.0.0",
+    "author": "ax LaraJoom!",
+    "description": "日本語のLaraJoom言語パック。",
+    "folder": "ja-JP-Full-language-LaraJoom"
+  }
+]
